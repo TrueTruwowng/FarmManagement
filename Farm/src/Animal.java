@@ -9,7 +9,4 @@ public class Animal {
         return name;
     }
 
-    public void displayInfo() {
-        System.out.println("This is an animal named " + name);
-    }
 }

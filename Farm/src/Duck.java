@@ -11,8 +11,4 @@ public class Duck extends Animal {
         System.out.println(getName() + " can walk.");
     }
 
-    @Override
-    public void displayInfo() {
-        System.out.println("This is a duck named " + getName());
-    }
 }
